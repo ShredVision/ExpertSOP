@@ -1,4 +1,4 @@
-# Expert SoP
+# Expert SOP
 
 #### New Clients:
 * You'll get a (text) message when a new job is available, please reply to claim.
